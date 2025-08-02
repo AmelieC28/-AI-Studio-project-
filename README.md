@@ -1,4 +1,4 @@
-#👋 Hey, I’m Amelie!
+<B>👋 Hey, I’m Amelie!
 📚 About Me:
 CIS major + Data Science minor @ Cal Poly Pomona
 
